@@ -73,3 +73,5 @@ print(msg9)
 msg10 = f'{greeting} {Name.upper()}, {Compliment}'
 print(msg10)
 
+#To conclude, i have learnt about Strings
+
