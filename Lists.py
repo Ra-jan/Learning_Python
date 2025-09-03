@@ -90,4 +90,21 @@ for index, item in enumerate(courses):
     print(index, item)
 
 
+# To start the index value from any particular number , we can define in the enumerate function
+for index, item in enumerate(courses, start=9):
+    print(index, item)
 
+
+# To print your list in form of string with separations, we can use .join(variable)
+course_str = ', '.join(courses)
+print(course_str)
+course_str1 = ' - '.join(courses)
+print(course_str1)
+# Whatever we give in the '' before .join(), it will work as a separator in the list when it is being converted into series of strings
+
+
+# We can also split the string and create it into lists using .split('- or ,') where () will contain the separator
+new_list = course_str.split(', ')
+print(new_list)
+new_list1 = course_str.split(' - ')
+print(new_list1)
