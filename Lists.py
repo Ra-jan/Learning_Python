@@ -125,3 +125,8 @@ print(list_2)
 # Now if we print the list, it will give the output with the mutated(changed) data.
 
 
+# To create an empty list, we can use either of the means below:
+empty_list = []
+empty_list_1 = list()
+print(empty_list)
+print(empty_list_1)
