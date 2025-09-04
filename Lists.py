@@ -1,4 +1,5 @@
 # List and Tuples allow us to work with sequential data
+# Lists are mutable
 # Sets are unordered collection of values with no duplicates.
 
 #LISTS is defined in [] with each value separated by COMMA (,)
@@ -108,3 +109,19 @@ new_list = course_str.split(', ')
 print(new_list)
 new_list1 = course_str.split(' - ')
 print(new_list1)
+
+# Mutable
+list_1 = ['history', 'Maths', 'Physics']
+list_2 = list_1
+print(list_1)
+print(list_2)
+# Here both of the list are same and are printed as such.
+# Now, if we were to make change in any one of the list such as
+
+list_1[0] = 'Art'
+# Making change in the list, that's what makes it mutable
+print(list_1)
+print(list_2)
+# Now if we print the list, it will give the output with the mutated(changed) data.
+
+
