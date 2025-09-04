@@ -3,6 +3,7 @@
 # 1st program to just learn how to print
 print("Hello, My name is Rajan Kumar")
 
+
 # How to define a value to a variable. Here message variable hold the text data which is also known as strings.
 message="Hello World"
 print(message)
