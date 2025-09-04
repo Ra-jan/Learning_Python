@@ -20,3 +20,9 @@ It will give us error as "Tuple does not support item assignment"
 '''
 
 # We cannot mutate the values such as append,remove etc. but we can access the values, iterate through values, loop through the tuple etc.
+
+# To create empty tuples, we can use either of the means below:
+empty_tuple = ()
+empty_tuple_1 = tuple()
+print(empty_tuple)
+print(empty_tuple_1)
