@@ -1,5 +1,6 @@
 # Here I learn about the numbers (Strings, Float, Complex)
 
+
 # Integer is a whole number and Float represents the decimal.
 num = 3
 print(num)
