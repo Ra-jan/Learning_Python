@@ -7,6 +7,7 @@
 student = {'name' : 'John', 'age' : 25, 'courses' : ['Maths', 'Physics']}
 print(student)
 
+
 # To print all the keys in the dictionary
 print(student.keys())
 # To print all the values in the dictionary
