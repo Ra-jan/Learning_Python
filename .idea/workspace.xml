@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e083276-d3b5-495f-b050-8d48d8d6dfdb" name="Changes" comment="Learned something about Dictionaries" />
+    <list default="true" id="1e083276-d3b5-495f-b050-8d48d8d6dfdb" name="Changes" comment="Learned something about Conditionals and Booleans" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -266,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757093112498</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Learned something about Conditionals and Booleans">
+      <option name="closed" value="true" />
+      <created>1757434726330</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1757434726330</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,6 +301,7 @@
     <MESSAGE value="Learned something about Lists" />
     <MESSAGE value="Learned something about Tuples" />
     <MESSAGE value="Learned something about Dictionaries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned something about Dictionaries" />
+    <MESSAGE value="Learned something about Conditionals and Booleans" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned something about Conditionals and Booleans" />
   </component>
 </project>
