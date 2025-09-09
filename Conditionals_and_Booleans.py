@@ -19,6 +19,7 @@ Any empty sequence. For Example '', (), []
 Any empty mapping. For Example  {}
 """
 
+
 # The conditional statement should always end with :
 # Indentation has to be followed in the conditional statements.
 
