@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e083276-d3b5-495f-b050-8d48d8d6dfdb" name="Changes" comment="Learned something about Dictionaries" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ra-jan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ra-jan/PyCharmMiscProject.git",
+    "accountId": "e6388219-3d64-4b10-93f3-37b82c79c8ba"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="329DDsY9QeGwO8btRM19DEmDkK3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Conditionals.executor": "Run",
+    "Python.Conditionals_and_Booleans.executor": "Run",
+    "Python.Dictionaries.executor": "Run",
+    "Python.Learning.executor": "Run",
+    "Python.Lists.executor": "Run",
+    "Python.ListsTupleAndSets.executor": "Run",
+    "Python.Numbers.executor": "Run",
+    "Python.PYTHON.executor": "Debug",
+    "Python.Sets.executor": "Run",
+    "Python.Strings.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/LEARNING/PYTHON",
+    "settings.editor.selected.configurable": "settings.sync"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\LEARNING\PYTHON" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Strings" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyCharmMiscProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\rajan\PyCharmMiscProject\Strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e083276-d3b5-495f-b050-8d48d8d6dfdb" name="Changes" comment="" />
+      <created>1756823784551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756823784551</updated>
+    </task>
+    <task id="LOCAL-00001" summary="..">
+      <option name="closed" value="true" />
+      <created>1756830383876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756830383876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Strings File">
+      <option name="closed" value="true" />
+      <created>1756910756420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1756910756420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Numbers File">
+      <option name="closed" value="true" />
+      <created>1756912759035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756912759035</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lists, Tuples and Sets File">
+      <option name="closed" value="true" />
+      <created>1756913128883</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756913128883</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lists File">
+      <option name="closed" value="true" />
+      <created>1756916519812</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1756916519812</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Lists File">
+      <option name="closed" value="true" />
+      <created>1756917081393</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1756917081393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Tuples File">
+      <option name="closed" value="true" />
+      <created>1756997965463</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1756997965463</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Learned something about Lists">
+      <option name="closed" value="true" />
+      <created>1757000619082</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1757000619082</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Learned something about Tuples">
+      <option name="closed" value="true" />
+      <created>1757001112825</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1757001112825</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Learned something about Strings">
+      <option name="closed" value="true" />
+      <created>1757001253680</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1757001253680</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Learned something about Numbers">
+      <option name="closed" value="true" />
+      <created>1757001328979</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1757001328979</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Learned something about Sets">
+      <option name="closed" value="true" />
+      <created>1757001479018</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1757001479018</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Learned something about Sets">
+      <option name="closed" value="true" />
+      <created>1757005988131</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757005988131</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Learned something about Lists">
+      <option name="closed" value="true" />
+      <created>1757006005609</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757006005609</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Learned something about Tuples">
+      <option name="closed" value="true" />
+      <created>1757006020708</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1757006020708</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Learned something about Dictionaries">
+      <option name="closed" value="true" />
+      <created>1757087155695</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1757087155695</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Learned something about Dictionaries">
+      <option name="closed" value="true" />
+      <created>1757091510925</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1757091510925</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Learned something about Dictionaries">
+      <option name="closed" value="true" />
+      <created>1757092991036</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1757092991036</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Learned something about Dictionaries">
+      <option name="closed" value="true" />
+      <created>1757093112498</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757093112498</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".." />
+    <MESSAGE value="Strings File" />
+    <MESSAGE value="Numbers File" />
+    <MESSAGE value="Lists, Tuples and Sets File" />
+    <MESSAGE value="Lists File" />
+    <MESSAGE value="Tuples File" />
+    <MESSAGE value="Learned something about Strings" />
+    <MESSAGE value="Learned something about Numbers" />
+    <MESSAGE value="Learned something about Sets" />
+    <MESSAGE value="Learned something about Lists" />
+    <MESSAGE value="Learned something about Tuples" />
+    <MESSAGE value="Learned something about Dictionaries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned something about Dictionaries" />
+  </component>
+</project>

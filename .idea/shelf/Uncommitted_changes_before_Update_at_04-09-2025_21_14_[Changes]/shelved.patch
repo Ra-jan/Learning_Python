@@ -1,0 +1,13 @@
+Index: Tuples.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Tuples.py b/Tuples.py
+--- a/Tuples.py	(revision 72d4a217f20c0046de42603c0fdd5db8452fb747)
++++ b/Tuples.py	(date 1757000440498)
+@@ -1,0 +1,4 @@
++# Tuples are very similar to lists but the only difference is it cannot be modified.
++# Tuples are immutable
++
++Courses = ['Python', 'Java', 'C++', 'Ruby', 'Go']
