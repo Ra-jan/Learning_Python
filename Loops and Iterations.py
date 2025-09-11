@@ -84,4 +84,4 @@ while x < 10:
         continue
     print(x)
 # Here we used the continue keyword to print the "Got 5" when the conditional was met and skip that number and proceed further
-# Also, x+=1 is defined before the conditional because if not, the loop will run infinite times
+# Also, x+=1 is defined before the conditional because if not, the increment will only be done till 5 and the continue keyword will make this loop go infinitely
