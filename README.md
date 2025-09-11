@@ -1,3 +1,5 @@
+Learning Python 🐍
+
 Welcome to my repository!  
 This is where I share everything I’m learning as I explore **Python**.  
 I’m still a beginner, but I believe the best way to grow is to **learn, practice, and share**.  
