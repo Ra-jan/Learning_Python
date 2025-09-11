@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e083276-d3b5-495f-b050-8d48d8d6dfdb" name="Changes" comment="Learned something about Conditionals and Booleans" />
+    <list default="true" id="1e083276-d3b5-495f-b050-8d48d8d6dfdb" name="Changes" comment="Learned something about Loops and Iterations">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-09-2025_22_01_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03-09-2025_22_01__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +26,18 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ra-jan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ra-jan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ra-jan/PyCharmMiscProject.git",
-    "accountId": "e6388219-3d64-4b10-93f3-37b82c79c8ba"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ra-jan/PyCharmMiscProject.git&quot;,
+    &quot;accountId&quot;: &quot;e6388219-3d64-4b10-93f3-37b82c79c8ba&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -56,6 +61,7 @@
     "Python.Learning.executor": "Run",
     "Python.Lists.executor": "Run",
     "Python.ListsTupleAndSets.executor": "Run",
+    "Python.Loops and Iterations.executor": "Run",
     "Python.Numbers.executor": "Run",
     "Python.PYTHON.executor": "Debug",
     "Python.Sets.executor": "Run",
@@ -64,6 +70,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/LEARNING/PYTHON",
@@ -298,7 +305,23 @@
       <option name="project" value="LOCAL" />
       <updated>1757435296239</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Learned something about Conditionals and Booleans">
+      <option name="closed" value="true" />
+      <created>1757435608994</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1757435608994</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Learned something about Loops and Iterations">
+      <option name="closed" value="true" />
+      <created>1757610137565</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1757610137565</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,6 +361,7 @@
     <MESSAGE value="Learned something about Tuples" />
     <MESSAGE value="Learned something about Dictionaries" />
     <MESSAGE value="Learned something about Conditionals and Booleans" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned something about Conditionals and Booleans" />
+    <MESSAGE value="Learned something about Loops and Iterations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned something about Loops and Iterations" />
   </component>
 </project>
